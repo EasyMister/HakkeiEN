@@ -1,0 +1,71 @@
+//来店時
+Come in! We're still opening, so take it easy!
+We have plenty of 「Energetic」 high-resistance yukkuri!
+With high durability they can stand more abuse...\nDoing that without killing is a man's dream!
+It seems that yukkuri will not mourn the corpses of their\nfamily members, but will be disgusted by the death smell.
+Let me tell you something: if you have concerns about the abuse\nleave a comment in my blog!
+
+
+
+
+
+
+
+
+
+
+
+
+
+//退店時
+Please come again!
+
+
+
+
+//タッチ
+Muh...!
+Huh... these are some good muscles!
+
+
+//ゆっくり購入
+Interested in a yukkuri?
+The yukkuri you bought was placed in your freezer.
+Your freezer is full, please make some space.
+You're done?
+Thanks for your purchase!
+
+
+
+
+//ゆっくり購入２
+That'll be
+ yen, you sure about it?
+A special medicine to increase yukkuri stamina for training\n
+
+
+
+
+
+
+
+
+//アイテム購入
+Looking for abyuse\nsupplies?
+You bought all the abyuse supplies!\nThis is just a step forward through the abyuser path!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

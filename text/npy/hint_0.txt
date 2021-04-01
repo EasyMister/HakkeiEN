@@ -1,0 +1,43 @@
+(While looking for wild yukkuri, suddenly rain started to fall.)
+(You find an old hut in the midst of searching for shelter,\nwhich looks like a good place to hide in.)
+(You search for the owner, but it appears to be empty.)
+(A large number of books seems to be piled up all over the place...)
+(You take a couple of them to check the insides,\nhowever bugs ate the pages making them unreadable.)
+...
+Mukyu? Is someone there?
+...
+Oh my, a mister human? What could you do here?
+(From the shadows, Patchouli appears.)
+Ah, someone taking shelter from the rain.
+No one is around except for Patche, so Patche does not mind.
+...
+Are you interested in this grimoire?
+Patche's mister owner was a great mister breeder it seems\nThat grimoire was written by mister owner
+...なんてかいてあるか よめないの？
+そうね かいぬしさんの じは よくいっても どくとく だったから...
+よかったら ぱちぇが よんで あげましょうか？
+...
+わかったわ まかせてちょうだい
+どの まどうしょを よめばいいの？
+って かいてあるわ
+
+にんげんさん なんだか いいことがあったみたいね？
+そう、そだてていた ゆっくりが \n銅バッジ しけんさんに ごうかくしたのね
+おめでとう ぱちぇもなんだか うれしいわ
+そういえば 銀バッジしけんさんに \nたいおうした まどうしょが あったはずだわ
+...
+...
+あったわ これね
+これからは こっちのまどうしょも よんであげるから \nよみたいしゅるいを おしえてね
+
+にんげんさん また いいことがあったみたいね？
+そだてていた ゆっくりが \n銀バッジ しけんさんに ごうかくしたのかしら？
+そう、やっぱり
+おめでとう ぱちぇも とっても うれしいわ
+そういえば 金バッジしけんさんに \nたいおうした まどうしょも あったはずだわ
+...
+...
+あったわ これね
+これからは こっちのまどうしょも よんであげるから \nよみたいしゅるいを おしえてね
+金バッジしけんさんは とってもむずかしいらしいから なんどでもきてね
+

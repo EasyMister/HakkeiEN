@@ -1,0 +1,55 @@
+//来場時
+What is it for today~?
+What is it for today~?
+What is it for today~?
+What is it for today~?
+What is it for today~?
+What is it for today~?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//�I����
+A cure for mold, is it~?\nThat would be 10000 yen�`
+A cure for mister footsies~?\nThe cost is 10000 yen�`
+Hair problems~?\nThe total is 5000 yen�`
+A treatment for the tongue, is it~?\nThe total is 10000 yen�`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//���Ò�
+You don't have enough money�`
+Please pick the Yukkuri needing treatment�`
+Is it this Yukkuri~?
+This Yukkuri doesn't have mold�`
+The mister footsies of this yukkuri are healthy�`
+This yukkuri isn't a baldy�`
