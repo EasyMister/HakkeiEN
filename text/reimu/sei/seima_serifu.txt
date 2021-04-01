@@ -1171,14 +1171,14 @@ ma_sei_m_2_10 = "Take it easy！"
 
 ;ネガティブモード
 ma_sei_nega_1 = "Want to take it easy…"
-ma_sei_nega_2 = "【一人称】 doesn't really want to do hunting…？"
+ma_sei_nega_2 = "【一人称】 wants to take it easy…？"
 ma_sei_nega_3 = "Why to 【一人称】…"
 ma_sei_nega_4 = "【一人称】 can't take it easy！"
 ma_sei_nega_5 = "Why… not letting 【一人称】 be easy…？"
 ma_sei_nega_6 = "Want to take it easy…"
 ma_sei_nega_7 = "Why… not letting 【一人称】 take it easy…？"
 ma_sei_nega_8 = "Want to take it easy…"
-ma_sei_nega_9 = "【一人称】 doesn't really want to do hunting…？"
+ma_sei_nega_9 = "【一人称】 can't take it easy…？"
 ma_sei_nega_10 = "Why… not letting 【一人称】 take it easy…？"
 
 
