@@ -6505,7 +6505,7 @@ ma_sei_cold_pat1_5 = "Cold… great Mister morning do warm-warm？"
 ma_sei_cold_pat1_6 = "Cold… hungry…"
 ma_sei_cold_pat1_7 = "Yuwaaaan！ Coldddd！"
 ma_sei_cold_pat1_8 = "Colddd…"
-ma_sei_cold_pat1_9 = "おひさまさん さぼっちゃ やーなのぜ…"
+ma_sei_cold_pat1_9 = "Mister sun don't slack off…"
 ma_sei_cold_pat1_10 = "Yuuuu… colddd…"
 
 //////////////////////////////////////////////////
