@@ -221,7 +221,7 @@ ma_sei_ikari_musi_gesu_5 = "yˆêlÌz is angryII"
 ma_sei_ikari_musi_gesu_6 = "yˆêlÌz is angryII"
 ma_sei_ikari_musi_gesu_7 = "Don't ignoreeI Let yˆêlÌz take it easyII"
 ma_sei_ikari_musi_gesu_8 = "Don't ignore what yˆêlÌz is sayingI"
-ma_sei_ikari_musi_gesu_9 = "yˆêlÌz is angryI Don't take it easyI"
+ma_sei_ikari_musi_gesu_9 = "yˆêlÌz is angryI Not taking it easyI"
 ma_sei_ikari_musi_gesu_10 = "Wry are you ignoringggggIII"
 
 ma_sei_gaman_musi_1 = "Don't ignore yˆêlÌzc"
