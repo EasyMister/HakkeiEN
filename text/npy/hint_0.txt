@@ -1,0 +1,43 @@
+(While looking for wild yukkuri, suddenly rain started to fall.)
+(You find an old hut in the midst of searching for shelter,\nwhich looks like a good place to hide in.)
+(You search for the owner, but it appears to be empty.)
+(A large number of books seems to be piled up all over the place...)
+(You take a couple of them to check the insides,\nhowever bugs ate the pages making them unreadable.)
+...
+Mukyu? Is someone there?
+...
+Oh my, a mister human? What could you do here?
+(From the shadows, Patchouli appears.)
+Ah, someone taking shelter from the rain.
+No one is around except for Patche, so Patche does not mind.
+...
+Are you interested in this grimoire?
+Patche's mister owner was a great mister breeder it seems\nThat grimoire was written by mister owner
+...Can't figure out the handwriting?
+Yes mister owner's handwriting can't even be called unique...
+If you don't mind, shall Patche read it for you?
+...
+Understood, please leave it to Patche
+So which grimoire should be read?
+What's written here is
+
+Mister human, did something good happen?
+Ah, the yukkuri you are raising \nhas passed mister bronze badge test?
+Congratulations, Patche feels happy for it!
+by the way, to pass mister silver badge test \nthe grimoire for that must be here..
+...
+...
+Here it is
+From now on, the grimoires here, let Patche read them for mister human \nWhatever you want to read, Just tell Patche
+
+Mister human did something good happen again?
+the yukkuri you are raising \nhas passed mister silver badge test?
+Really, after all
+Congratulations, Patche feels very happy for it!
+by the way, to pass mister gold badge test \nthe grimoire for that must be here..
+...
+...
+Here it is
+From now on, the grimoires here, let Patche read them for mister human \nWhatever you want to read, Just tell Patche
+Mister gold badge test seems to be very difficult to pass, \nplease come here at anytime!
+
