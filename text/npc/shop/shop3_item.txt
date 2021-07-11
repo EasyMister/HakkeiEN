@@ -1,0 +1,60 @@
+//来店時
+\nthe price is
+yen
+//アイテム説明・トイレ
+Toilet of the size for yukkuri.\nThis is good enough for a badged yukkuri, \nbut you need to clean the feces immediately.....
+Sand toilet of the size for yukkuri.\nIt doesn't let out odors and avoid humidity, \nit helps to reduce the waste ordor and mold growth.
+Auto-flushing toilet of the size for yukkuri.\nIt cleans excrement automatically after yukkuri taking dump,\na good choice for lazy person.
+
+
+
+//給水器
+Water feeder for yukkuri.Basically, you don't need to feed yukkuri water \nif they eat normal food, but hydration method other than food may be \nrequired during summertime.(Not implemented yet)
+
+
+
+//土管
+A clay pipe yukkuri can fit in snugly.\nyukkuri prefer narrow space, \nthey would be happy to have it as a hiding place.
+
+
+
+//おもちゃ
+Marble ball.\nIf you have multiple yukkuri, why not give it to them as a toy?
+Rubber ball.\nIf you have multiple yukkuri, why not give it to them as a toy?
+Transparent dice, in a set of 50 pcs.\nYukkuri have the habit of collecting glitering things,\nso it may be a good idea to give it to them.
+
+
+
+
+
+
+//人形
+A doll that resembles a reimu type.\nYukkuri may feel lonely if they are raised alone,\nin this case, a doll may make them feel better.
+
+
+
+
+
+
+
+
+//遊具
+It's a slide for yukkuri.\na small and robust product for yukkuri to climb.
+A trampoline for yukkuri.\nYukkuri all have strong desire for the sky,\nthey seem to be very happy when they can bounce high.
+It's a pool for yukkuri.\nIt can be used for playing and cleaning,\nbut please keep your eyes on it to avoid yukkuri being melted by water.
+
+
+
+
+
+
+//ハウス
+A wooden house for yukkuri.\nA product made by using natural wood,\nit's also moisture-proof and insect-proof.
+A mushroom-shaped house for yukkuri.\nMade by using special material that is friendly to yukkuri's body.
+
+
+
+
+
+
+//フード
