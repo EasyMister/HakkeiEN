@@ -1,4 +1,4 @@
-//æ¥åº—æ™‚
+//—ˆ“X
 Welcome!\nWe're in the middle of preopening!!
 Between the bronze badge there are some bad apples...
 The bronze badges know how to use the toilet.
@@ -17,18 +17,18 @@ If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mi
 
 
 
-//é€€åº—æ™‚
+//‘Ş“X
 Are you done shopping?
 
 
 
 
-//ã‚¿ãƒƒãƒ
+//ƒ^ƒbƒ`
 Kyaah!?
 Sexual harassment is bad!
 
 
-//ã‚†ã£ãã‚Šè³¼å…¥
+//‚ä‚Á‚­‚èw“ü
 You want to buy a yukkuri?
 The purchased yukkuri is in your freezer.
 Your freezer is full,\nplease make some space.
@@ -38,7 +38,7 @@ You want to sell a yukkuri?
 
 
 
-//ã‚†ã£ãã‚Šè³¼å…¥ï¼’
+//‚ä‚Á‚­‚èw“ü‚Q
 It would be 
  Yen
 This yukkuri has been trained.\n
@@ -50,7 +50,7 @@ This yukkuri is a descendant of a gold badge.\n
 
 
 
-//ã‚¢ã‚¤ãƒ†ãƒ è³¼å…¥
+//ƒAƒCƒeƒ€w“ü
 Do you want to buy equipment for\nyukkuri breeding?
 Uwaa! You bought all the breeding equipment!\nThank you very much!!
 

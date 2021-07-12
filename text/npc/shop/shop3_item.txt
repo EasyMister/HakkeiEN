@@ -1,60 +1,60 @@
-//来店時
-\nお値段は
-円になっております
-//アイテム説明・トイレ
-ゆっくり用のサイズのトイレです。\nバッジ付きのゆっくりの場合、これでも充分ですが、\n排泄物の除去はお早めに……
-ゆっくり用のサイズの砂付きのトイレです。\n防臭、防湿効果のある砂ですので、\n排泄物の悪臭、カビの繁殖をを多少は抑えてくれます。
-ゆっくり用のサイズの自動水洗トイレです。\nゆっくりの排泄行為に合わせた排泄物を除去してくれます。\nものぐさな方にもおすすめの一品です。
+//���X��
+\nthe price is
+yen
+//�A�C�e�������E�g�C��
+Toilet of the size for yukkuri.\nThis is good enough for a badged yukkuri, \nbut you need to clean the feces immediately.....
+Sand toilet of the size for yukkuri.\nIt doesn't let out odors and avoid humidity, \nit helps to reduce the waste ordor and mold growth.
+Auto-flushing toilet of the size for yukkuri.\nIt cleans excrement automatically after yukkuri taking dump,\na good choice for lazy person.
 
 
 
-//給水器
-ゆっくり用の給水器です。\n基本的に、通常のフードを与えていれば他の水分補給は必要ないのですが、\n夏場などにはフード以外の水分補給手段も必要かもしれません。(未実装)
+//������
+Water feeder for yukkuri.Basically, you don't need to feed yukkuri water \nif they eat normal food, but hydration method other than food may be \nrequired during summertime.(Not implemented yet)
 
 
 
-//土管
-ゆっくりがすっぽり入れるサイズの素焼き風土管です。\nゆっくりは狭いところを好む習性がありますので\n隠れ家としておいてあげると喜ぶでしょう。
+//�y��
+A clay pipe yukkuri can fit in snugly.\nyukkuri prefer narrow space, \nthey would be happy to have it as a hiding place.
 
 
 
-//おもちゃ
-ビー玉です。\n複数個体をお飼いの方は、遊び道具として与えてはどうでしょう？
-ゴムボールです。\n複数個体をお飼いの方は、遊び道具として与えてはどうでしょう？
-クリアダイス、50個セットです。\nゆっくりはキラキラしたもの集める習性がありますので、\n与えてやると良いかもしれません。
-
-
-
-
-
-
-//人形
-れいむ種を模した人形です。\n単独飼いの場合、寂しがる場合がありますので、\nそういった場合に与えてやると気が紛れるかもしれません。
+//��������
+Marble ball.\nIf you have multiple yukkuri, why not give it to them as a toy?
+Rubber ball.\nIf you have multiple yukkuri, why not give it to them as a toy?
+Transparent dice, in a set of 50 pcs.\nYukkuri have the habit of collecting glitering things,\nso it may be a good idea to give it to them.
 
 
 
 
 
 
-
-
-//遊具
-ゆっくり用の滑り台です。\nゆっくりでも登れる、小型堅牢な商品です。
-ゆっくり用のトランポリンです。\nゆっくりは空へのあこがれが強いらしく、\n高く跳ねられると喜ぶようです。
-ゆっくり用のプールです。\n遊びだけではなく、体を洗うためにも使いますが、\n設置中は溶けてしまわないよう、目を離さないようにしてください。
+//�l�`
+A doll that resembles a reimu type.\nYukkuri may feel lonely if they are raised alone,\nin this case, a doll may make them feel better.
 
 
 
 
 
 
-//ハウス
-ゆっくり用の木製ハウスです。\n自然の木材を加工して作った商品で、\n防虫、防湿加工も施されております。
-ゆっくり用のきのこ型ハウスです。\nゆっくりの体にも優しい、特殊素材で作られております。
+
+
+//�V��
+It's a slide for yukkuri.\na small and robust product for yukkuri to climb.
+A trampoline for yukkuri.\nYukkuri all have strong desire for the sky,\nthey seem to be very happy when they can bounce high.
+It's a pool for yukkuri.\nIt can be used for playing and cleaning,\nbut please keep your eyes on it to avoid yukkuri being melted by water.
 
 
 
 
 
 
-//フード
+//�n�E�X
+A wooden house for yukkuri.\nA product made by using natural wood,\nit's also moisture-proof and insect-proof.
+A mushroom-shaped house for yukkuri.\nMade by using special material that is friendly to yukkuri's body.
+
+
+
+
+
+
+//�t�[�h

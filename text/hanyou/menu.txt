@@ -35,25 +35,25 @@ Summer
 Fall
 Winter
 Month
-Yen
+ Yen
 Mister footsie!?
 Abyuser level
-強制ライブ開催！
+Forced live concert!
 Trembling erection
 Poisoned!?
 Total darkness
-どーぴんぐ えれくちおん
+Electronic doping
 BDSM Play?
 Unattached!?
 Lost future
-ひかりあれ！
+Shining head！
 Mental break
-おかわりもいいぞ！
+Have some more!
 Breeder level
 New family
 Life's baton
 First-class sniper
-上げて落とした
+Flatter then suffer
 Absolute aim
 Growing up
 Eternal love
@@ -81,7 +81,7 @@ Not taking it easy?
 Screenshot
 Clean waste
 Put away
-Bathe
+    Bathe
 Hands
 Tools
 Accessory
@@ -112,7 +112,7 @@ string length
 Confine to box
 Vibrator
 Nyutering kit
-Razor
+   Razor
 Fabric shears
 Stalk shears
 Stalk shears
@@ -120,7 +120,7 @@ Stalk shears
 Bury
 Throw away
 Freeze
-Set tag
+     Set tag
 End tag
 Showing numbers
 Showing tags
@@ -185,7 +185,7 @@ Pretty rock
 Clear dice
 Reimu doll
 Cardboard house
-Wooden house
+   Wooden house
 Mushroom house
 Shake house
 Remove from house
@@ -208,7 +208,7 @@ Sugar supplement
 Flour supplement
 Bean paste supplement
 Sitataran
-個
+pcs
 Intelligence UP drug
 Affection UP drug
 Scum correction drug
@@ -244,7 +244,7 @@ Type:
 Anti-antiyukkuritis active
 Sitataran active
 Sugar supplement active: Intelligence Points UP bonus
-Flour supplement active: Affection UP bonus
+Flour supplement active: Mutual affection UP bonus
 Bean paste supplement active: Max Health UP bonus
 No medication
 Breeder
@@ -260,7 +260,7 @@ Affection increase bonus:
 Bonus: ON
 Bonus: OFF
 Consecutive HITs:
-ゲス度指導補正:
+Scumminess correction:
 Game speed
 Background
 Set hotkeys
@@ -291,7 +291,7 @@ Special
 Not good
 Food settings
 Luxury yukkuri food
-Spicy yukkuri food
+   Spicy yukkuri food
 Cheap yukkuri food
 Auto-feeder: OFF
 Auto-feeder: ON
@@ -313,20 +313,20 @@ M
 L
 XL
 Distribution
-固定
-頭数分
-Auto-feeder settings
-Constantly
-_ daily
-Once
-Twice
-Thrice
+Fixed
+Proportional
+    Auto-feeder settings
+          Constantly
+          _ daily
+          Once
+            Twice
+               Thrice
 Cause of death:
 Age at death
-ねんと
-このきせつと
-期目
-もう助からない
+Year
+Season
+Week
+Can't be helped
 Freezer full!
 Sell
 Release
@@ -402,13 +402,32 @@ Riverside
 Underpass
 City
 Train to town
-Shopping district (unavailable)
+Shopping district
 Yukkuri Association
 Yukkuri Clinic
 Yukkuri Shop 3
-Back alley (unavailable)
-Abandoned construction site (unavailable)
+
+
 Luxury Yukkuri Shop
 Park corner
 Expedition discovery
 Back
+Yukkuri counter
+Gold badges in stock
+Ask her out 
+Shake the tank
+Buy her
+Secret Punch
+Castration
+         Farewell
+    Merciful Heart
+  Shrine Rebuilt
+Date with the lady♪
+   No shame
+   All Complete
+Peni-Peni Exploded
+Buffet style!?
+No mercy
+Attack on paste core
+Date with the lady♪
+Luxury burial

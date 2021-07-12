@@ -1,9 +1,9 @@
-//来店時
-ちわー、いらっしゃいましー
-自分は直接手を下すより、信頼が崩れていく展開が好きっすねー
-非ゆっくり症防止薬は邪道っすね……やっぱり自分の腕で調整しないと
-この服装っすか？趣味っすー
-ゆっくりしてないゆっくりはあんまり他のゆっくりに好かれないそうっすー
+//���X��
+Hi~, Welcome~
+Rather than getting dirt on my hand, \nI prefer the situation when trust shatters~.
+Antiyukkuritis pill is heresy�c�cI'd rather adjust it with my own skill.
+About what I am wearing? My hobby~
+I heard that yukkuri don't like yukkuri that can't take it easy~
 
 
 
@@ -17,8 +17,8 @@
 
 
 
-//退店時
-また来てくれるとうれしいっすー
+//�ޓX��
+I'll be glad if you come back~
 
 
 
@@ -28,31 +28,19 @@
 
 
 
-//ゆっくり購入
-ゆっくりを購入するんすか？
-購入したゆっくりはクーラーボックスの中に入れとくっすね
-クーラーボックスがいっぱいなので、ボックスを空けてくださいましー
-やめちゃうんすか？
-お買い上げありがとうございますー
+//�������w��
+Are you gonna buy yukkuri?
+I'll put the purchased yukkuri in the cooler box
+Cooler box is full, please make some space~
+Quitting?
+Thank you for your purchase~
 
 
 
 
-//ゆっくり購入２
-値段は
-円になるんすが、買うっすか？
-
-
-
-
-
-
-
-
-
-//アイテム購入
-ゆっくり用の虐待用品を\n購入するんすね？
-わお、虐待用品を全種購入してくれたんすね\nもう売るものは自分くらいしかないっすー
+//�������w���Q
+the price is
+yen, Want to buy it�H
 
 
 
@@ -62,9 +50,90 @@
 
 
 
+//�A�C�e���w��
+Abyuse tools for yukkuri\nAre you sure to buy this?
+Wow! You bought all abyuse supplies\nThe only thing left for sale is myself~
+Kya~ Ecchi~
+Are you asking me to go out with you?
+
+
+//���܂�
+Ei~ For real? Do you really want to buy me?
+Ei~ For real? Do you really want to buy me?\nEcchi~
+Em~�c�c
+Em~�c�c Well then�c�c
+(glancing)
+(glancing)�c
+(glancing)�c�c
+Ah, that's all.
+The fee will be 1000 yen.
+
+Ei~ For real? Do you really want to buy me?
+Ei~ For real? Do you really want to buy me?\nEcchi~
+Em~�c�c
+Em~�c�c Well then�c�c
+(glancing)
+�c�c
+�c�cAh
+I didn't wear my bra today�c�c
+Well~ with �y������z, that's another story�c�c
+This time is a special service~
+The fee will be 1000 yen.
 
 
 
 
 
 
+
+
+
+Want me to go out with you?
+Then I know a good place~
+Let's go there tomorrow~
+Make sure you bring a change of clothes~
+�c�c �c�c
+Next day
+�c�c �c�c
+eeya~ the hot spring is so good~
+eeya~ the hot spring is so good~\nIt's getting warm~
+The hotel has an open air bath for each room~
+Of course, it's reserved, you can wear a towel if you want.
+whoa whoa, are you unhappy?
+whoa whoa, are you unhappy? I can't wear the towel?
+Mm-hmm~
+That's what you should say when get on the bed
+That's what you should say when get on the bed m~
+That's what you should say when get on the bed mmm~
+That's what you should say when get on the bed mmmm~
+�c�c �c�c
+Next day
+�c�c �c�c
+eeya~ That was fun~
+eeya~ That was fun~\n Mi 
+eeya~ That was fun~\n Mis
+eeya~ That was fun~\n Mister
+what~
+I'd love to go again~. \nPlease take me with you when the next time you go~.
+
+
+
+(Hello I'm the pure and honest kimemaru (business trip ver.) DACE)
+(�y������z please allow me to make up for the debt by doing this)
+(Ohh ecchi ecchi)
+(Ohh ecchi ecchi)\n(No�c�c I prefer�c�c)
+Whoa, that's scary~
+Ah~ She took away the towel�c�c
+Ah~ She took away the towel�c�c\nKimemaru, unforgivable�c�c
+What should I do�c�c
+Well, it's okay if it is with you~
+Let's go to bed when it gets warm~
+�c�c �c�c
+Next day
+�c�c �c�c
+eeya~ That was fun~
+eeya~ That was fun~\n Mi 
+eeya~ That was fun~\n Mis
+eeya~ That was fun~\n Mister
+what~
+I'd love to go again~. \nPlease take me with you when the next time you go~.

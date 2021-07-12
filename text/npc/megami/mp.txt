@@ -1,21 +1,21 @@
 Make an offering
 Return
-10円
-50円
-100円
-500円
-1000円
-2000円
-5000円
-10000円
-100000円
-1000000円
+10 yen
+50 yen
+100 yen
+500 yen
+1000 yen
+2000 yen
+5000 yen
+10000 yen
+100000 yen
+1000000 yen
 Actually, no
 Offer sweets to the goddess
 　　　Make an offering
       Change yu's stats
-どのこに パワー をあたえるの？
-このこにする？
+Which one do you want me to use power on?
+This one?
 分
 Munch
 Munch Munch
@@ -23,8 +23,8 @@ Munch Munch……
 Happinessー！
  points given！
 Current MP: 
-むぅ……やめちゃだめー！
-おさいせんは ゆっくりしてるよぉ！
+Uuu……Don't give up~!
+Offering, take it easy！
 　 Extend the life of a yu
 　  Treat anti-yukkuritis
 

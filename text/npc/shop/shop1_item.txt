@@ -1,24 +1,24 @@
-//来店時
+//���X��
 \nwill cost you
  yen.
-//アイテム説明・トイレ
+//�A�C�e�������E�g�C��
 A toilet for yukkuri.\nToilet training requires lots of patience and perseverance.
-A toilet for yukkuri with sand.\nIt doesn't let out odors and avoids humidity,\nso it's OK to forget about cleaning from time to time.
+A toilet for yukkuri with sand.\nIt doesn't let out odors and avoid humidity,\nso it's OK to forget about cleaning from time to time.
 A toilet for yukkuri with automatic flushing.\nIt flushes water without needing plumbing, and that's amazing.\nI suppose there's a lot of calulations or something.
 
 
 
-//給水器
+//������
 Water supply for yukkuri.\nKos need to drink often, but just water\nand normal food is healthy for all yus. 
 
 
 
-//土管
+//�y��
 A clay pipe  yukkuri can fit in snugly.\nThanks to the production method, delicate yukkuri skin isn't injured.
 
 
 
-//おもちゃ
+//��������
 An ordinary marble ball.\nYukkuri like to play ball with it.
 An ordinary rubber ball.\nIt has a different feeling than the marble one, doesn't it...
 An ordinary transparent dice, in a set of 50.\nYukkuri like to collect them as treasures.
@@ -28,7 +28,7 @@ An ordinary transparent dice, in a set of 50.\nYukkuri like to collect them as t
 
 
 
-//人形
+//�l�`
 A doll that looks like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple can be difficult!
 
 
@@ -38,7 +38,7 @@ A doll that looks like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple ca
 
 
 
-//遊具
+//�V��
 It's a slide for yukkuri.\nYukkuri seem to really like this piece of park equipment.
 A trampoline for yukkuri.\nYukkuri like to fly in the sky especially as kos,\nso they really like jumping high with this toy.
 It's a pool for yukkuri.\nYukkuri like to swim here, but if they stay in the water too long they melt,\nso please pay attention to them.
@@ -48,7 +48,7 @@ It's a pool for yukkuri.\nYukkuri like to swim here, but if they stay in the wat
 
 
 
-//ハウス
+//�n�E�X
 A wooden house for yukkuri.\nIt's made from real wood, so it is certainly an easy place!
 A mushroom-shaped house for yukkuri.\nIt's made from... not a real mushroom,\nbut it seems to be still an easy place!
 
@@ -57,14 +57,15 @@ A mushroom-shaped house for yukkuri.\nIt's made from... not a real mushroom,\nbu
 
 
 
-//フード
-This is a cheap yukkuri food home delivery contract.\nThe taste is not as good, but it has enough nutrients.\nJust like prescription medicine, this is a system that collects the price of visiting and using it at home.
-This is a yukkuri food home delivery contract。\nIt's the best-selling food, and it seems like the taste is also satisfying。\nJust like prescription medicine, this is a system that collects the price of visiting and using it at home.
-Luxury yukkuri food home delivery contract.\nIt's good for special occasions、It gives yukkuri a "happiness" taste。\nJust like prescription medicine, this is a system that collects the price of visiting and using it at home.
-Cookies for yukkuri home delivery contract.\nYukkuris love sweets, so she'll be really happy.\nJust like a prescription medicine, this is a system that collects the price of visiting and using it at home.
-Cake for yukkuri home delivery contract.\nThere is no doubt yukkuri would be excited about a large cake!\nJust like a prescription medicine, this is a system that collects the price of visiting and using it at home.
-Ramune for yukkuri home delivery contract.\nWhen yukkuri eat ramune for some reason, sleep immediately.\nIt seems that many people use it as a sleeping pill when moving to a hospital.
-ゆっくりちゃん用の和三盆サプリの宅配契約です。\n和三盆をベースに、知能に良い影響を与えられる栄養分をミックスしました。\nお勉強の結果に良い影響を与えれれると思います。
-ゆっくりちゃん用の餅粉サプリの宅配契約です。\n高級餅粉をベースに、外見に良い影響を与えられる栄養分をミックスしました。\n他のゆっくりに好かれやすくなると思います。
-ゆっくりちゃん用の小豆サプリの宅配契約です。\n高級小豆をベースに、体に良い影響を与えられる栄養分をミックスしました。\n体力の成長に良い影響を与えられると思います。
+//�t�[�h
+This is a cheap yukkuri food home delivery contract.\nThe taste is not as good, but it has enough nutrients.\nJust like prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
+This is a yukkuri food home delivery contract.\nIt's the best-selling food, and it seems like the taste is also satisfying.\nJust like prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
+Luxury yukkuri food home delivery contract.\nIt's good for special occasions that gives yukkuri a "happiness" taste.\nJust like prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
+Cookies for yukkuri home delivery contract.\nYukkuris love sweets, so she'll be really happy.\nJust like a prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
+Cake for yukkuri home delivery contract.\nThere is no doubt yukkuri would be excited about a large cake!\nJust like a prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
+Ramune for yukkuri home delivery contract.\nWhen yukkuri eat ramune for some reason, sleep immediately.\nIt seems that many people use it as a sleeping pill when moving to a \nhospital.
+Wasanbon for yukkuri home delivery service contract.\nBased on Wasanbon, mixed with nutrients that can have a positive impact \non intelligence. It improves yukkuri�fs study results.
+Rice flour for yukkuri home delivery service contract.\nBased on high-grade rice flour, mixed with nutrients that has a\npositive impact on yukkuri�fs appearance. It makes the yukkuri more attractive.
+Red bean for yukkuri home delivery service contract.\nBased on high-grade red bean and mixed with nutrients that can have a \npositive impact on the body. It improves yukkuri�fs physical growth.
 \nOne is 2000 yen, but the home delivery contract fee will be free
+

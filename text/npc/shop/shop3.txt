@@ -1,10 +1,10 @@
-//来店時
-いらっしゃいませ。ようこそおいでくださいました。
-当店では、専属契約のブリーダーの方々の協力で、\n各種ランクのゆっくりを取り揃えております。\nですが、ブリーダーの方への生体販売は行っておりませんので悪しからず。
-当店ではゆっくり飼育用品を\nメーカー定価の２割引きでご提供させていただいております。
-当店ではゆっくり飼育用品を\nメーカー定価の２割引きでご提供させていただいております。
-当店ではゆっくり飼育用品を\nメーカー定価の２割引きでご提供させていただいております。
-当店ではゆっくり飼育用品を\nメーカー定価の２割引きでご提供させていただいております。
+//���X��
+Welcome, thank you for visiting us.
+In our shop, with the help of contracted breeders, \nwe have prepared yukkuri with all different badges.\nHowever, we can't sell living yukkuri to breeders, please understand.
+All yukkuri supplies in our shop\nhave a 20% discount on the manufacturer's listing price.
+All yukkuri supplies in our shop\nhave a 20% discount on the manufacturer's listing price.
+All yukkuri supplies in our shop\nhave a 20% discount on the manufacturer's listing price.
+All yukkuri supplies in our shop\nhave a 20% discount on the manufacturer's listing price.
 
 
 
@@ -17,28 +17,18 @@
 
 
 
-//退店時
-おかえりになられますか？
+//�ޓX��
+are you ready to go home?
 
 
 
 
-//タッチ
+//�^�b�`
 
 
 
 
-//ゆっくり購入
-
-
-
-
-
-
-
-
-
-//ゆっくり購入２
+//�������w��
 
 
 
@@ -48,11 +38,21 @@
 
 
 
+//�������w���Q
 
 
-//アイテム購入
-ゆっくり用の飼育用品を\n購入されますか？
-……！\n当店で取り扱っている飼育用品は全て購入されております。
+
+
+
+
+
+
+
+
+
+//�A�C�e���w��
+raising supplies for yukkuri\nwant to buy some?
+...!\nYou have purchased all raising supplies we have. 
 
 
 

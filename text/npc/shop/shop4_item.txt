@@ -1,22 +1,23 @@
-//来店時
-\n値段は
-円になるんすけど、買うっすかー？
-//アイテム説明・フード
+//���X��
+\nIt costs
+ yen, wanna buy it�H
+//�A�C�e�������E�t�[�h
 
 
 
 
 
-//虐待器具
-キリっすー\nあにゃるにぷすっと刺すのがいいっすねー\nその後は普通に餌あげてうんうんさせるっす
-ハンマーっすー\nゆっくりを処分するときに便利っすねー。
-金属製の箱っすー\n恐怖心を調整するときによく使うっすねー。\nゆっくりは大きな金属音が苦手みたいっすー人間もか。
-ローターっすー\nこれ以上の説明は別料金貰うっすよ？
+//�s�Ҋ��
+Hand drill~\nIt's so good that it can stick in the anyaru easily~\nafter that, feed the yukkuri like usual and let it poop.
+Hammer~\nA very convenient tool for punishing yukkuri.
+Metal box~\nIt's often being used for adjusting yukkuri's fear.\nLike human, yukkuri can't bear loud metallic noise.
+Vibrator~\nFurther explaination requires extra money~
 
-アルコールランプっすー\n足焼きはしちゃうと治療法がないんで、適切なタイミングで行うべきっすー
-お仕置き用の固定具っすー\nあおむけでひっぷさんを突き出した状態で固定できるっすー\n身動きさせないことで、ひっぷさん系の虐待がやりやすくなるっすー
-ぺにぺに切断用のハサミっすー\n特殊な形状で、切断と同時に切断面を圧着することで出餡を防ぐらしいっすー\n意図せず死なすような真似は避けたいっすからねー
-茎切断用のハサミっすー\n特殊な形状で、切断と同時に切断面を圧着することで出餡を防ぐらしいっすー\n意図せず死なすような真似は避けたいっすからねー
-ゆっくり用のバリカンっすー\n電熱線でカットするので、砂糖細工のゆっくりの髪の毛にはピッタリらしいっす。
-ゆっくりの舌を麻痺させる薬っすー\nいい感じの辛味と苦味で、ゆっくりの舌を永続的に麻痺させるっす。\n成ゆでも赤ちゃんみたいな喋り方になるんすよー
+Alcohol lamp~\nThere's no cure for burnt foot, so use it wisely~
+Punishment seat~\nFix yukkuri by letting it lying on its back with foot sticking out, \nby not letting it move, it's easy to abuse its hip~
+Scissors for cutting yukkuri's penipeni~ Comes with a special shape that \ncrimps the cut surface to prevent bean paste from flowing out\nit helps with avoiding unintentional killing~
+Scissors for cutting yukkuri's stalk~ Comes with a special shape that \ncrimps the cut surface to prevent bean paste from flowing out\nit helps with avoiding unintentional killing~
+Razor for yukkuri~\nIt uses heating wire to cut, a perfect tool for yukkuri's sugar sculpture hair.
+Drug that paralyzes yukkuri's tongue\nComes with nice spiciness and bitterness, it can paralyze yukkuri's tongue permanently.\nAdult yukkuri will talk like koyu after taking it~
+
 
