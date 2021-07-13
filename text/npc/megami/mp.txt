@@ -12,21 +12,21 @@ Return
 1000000 yen
 Actually, no
 Offer sweets to the goddess
-ã€€ã€€ã€€Make an offering
+@@@Make an offering
       Change yu's stats
-Which one do you want me to use power onï¼Ÿ
-This oneï¼Ÿ
-åˆ†
+Which one do you want me to use power onH
+This oneH
+•ª
 Munch
 Munch Munch
-Munch Munchâ€¦â€¦
-Happinessãƒ¼ï¼
- points givenï¼
+Munch Munchcc
+Happiness[I
+ points givenI
 Current MP: 
-Uuuâ€¦â€¦Don't give upãƒ¼ï¼
-Offering, take it easyï¼
-ã€€ Extend the life of a yu
-ã€€  Treat anti-yukkuritis
+UuuccDon't give up[I
+Offering, take it easyI
+@ Extend the life of a yu
+@  Treat anti-yukkuritis
 
 Current MP 
 Spent MP 
