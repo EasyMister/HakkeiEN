@@ -1,9 +1,9 @@
 //譚･蠎玲凾
-Come in! We're still opening, so take it easy!
-We have plenty of 「energetic」 high-resistance yukkuri!
-With high durability they can stand more abuse...\nDoing that without killing is a man's dream!
+Come in！ We're still opening, so take it easy！
+We have plenty of 「energetic」 high-resistance yukkuri！
+With high durability they can stand more abuse…\nDoing that without killing is a man's dream！
 It seems that yukkuri will not mourn the corpses of their\nfamily members, but will be disgusted by the death smell.
-Let me tell you something: if you have concerns about the abuse\nleave a comment in my blog!
+Let me tell you something: if you have concerns about the abuse\nleave a comment in my blog！
 
 
 
@@ -18,29 +18,29 @@ Let me tell you something: if you have concerns about the abuse\nleave a comment
 
 
 //退店時
-Please come again!
+Please come again！
 
 
 
 
 //タッチ
-Muh...!
-Huh... these are some good muscles!
+Muh…！
+Huh… these are some good muscles！
 
 
 //ゆっくり購入
-Interested in a yukkuri?
+Interested in a yukkuri？
 The yukkuri you bought was placed in your freezer.
 Your freezer is full, please make some space.
-You're done?
-Thanks for your purchase!
+You're done？
+Thanks for your purchase！
 
 
 
 
 //ゆっくり購入２
 That'll be
- yen, you sure about it?
+ yen, you sure about it？
 A special medicine to increase yukkuri stamina for training\n
 
 
@@ -51,32 +51,32 @@ A special medicine to increase yukkuri stamina for training\n
 
 
 //アイテム購入
-Looking for abyuse\nsupplies?
-You bought all the abyuse supplies!\nThis is just a step forward through the abyuser path!!
+Looking for abyuse\nsupplies？
+You bought all the abyuse supplies！\nThis is just a step forward through the abyuser path！！
 
 
 
 
 
 Hey, Come in.
-Huh? Looks like something is troubling you......
-...... ......
-I see, it's about very endurant yukkuri\nyou are dissatisfied that some can endure hammer blows......
-Hehe......
+Huh？ Looks like something is troubling you……
+…… ……
+I see, it's about very endurant yukkuri\nyou are dissatisfied that some can endure hammer blows……
+Hehe……
 Oh, I'm sorry.
 Oh, I'm sorry. \nI didn't mean to laugh, I didn't know that you have the same issue\n I once had.
 End the punishment when the yukkuri is half to death, 
-End the punishment when the yukkuri is half to death, \ninstead of finishing it at its final moment.....
+End the punishment when the yukkuri is half to death, \ninstead of finishing it at its final moment…..
 That would make a clown out of myself.
-Hah...
-Hah...\nIt's fine to let you know this,
-You know that yukkuri's life is mostly supported by the paste core, right?
+Hah…
+Hah…\nIt's fine to let you know this,
+You know that yukkuri's life is mostly supported by the paste core, right？
 With a special kenpo, you can effectively penetrate the paste core\n with one blow.
-By aimming at the paste core, this kenpo will display extraordianry power!
+By aimming at the paste core, this kenpo will display extraordianry power！
 Let me teach you.
 It's fine, no need to thank me.
 It's fine, no need to thank me.\nIt's the old man's prerogative to guide the youngster.
-Now, give it a try at your own place!
+Now, give it a try at your own place！
 
 
 

@@ -29,7 +29,7 @@ An ordinary transparent dice, in a set of 50.\nYukkuri like to collect them as t
 
 
 //人形
-A doll that looks like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple can be difficult!
+A doll that looks like Reimu.\nYukkuri can feel lonely,\nbut keeping multiple can be difficult！
 
 
 
@@ -49,8 +49,8 @@ It's a pool for yukkuri.\nYukkuri like to swim here, but if they stay in the wat
 
 
 //ハウス
-A wooden house for yukkuri.\nIt's made from real wood, so it is certainly an easy place!
-A mushroom-shaped house for yukkuri.\nIt's made from... not a real mushroom,\nbut it seems to be still an easy place!
+A wooden house for yukkuri.\nIt's made from real wood, so it is certainly an easy place！
+A mushroom-shaped house for yukkuri.\nIt's made from... not a real mushroom,\nbut it seems to be still an easy place！
 
 
 
@@ -62,7 +62,7 @@ This is a cheap yukkuri food home delivery contract.\nThe taste is not as good, 
 This is a yukkuri food home delivery contract.\nIt's the best-selling food, and it seems like the taste is also satisfying.\nJust like prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
 Luxury yukkuri food home delivery contract.\nIt's good for special occasions that gives yukkuri a "happiness" taste.\nJust like prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
 Cookies for yukkuri home delivery contract.\nYukkuris love sweets, so she'll be really happy.\nJust like a prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
-Cake for yukkuri home delivery contract.\nThere is no doubt yukkuri would be excited about a large cake!\nJust like a prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
+Cake for yukkuri home delivery contract.\nThere is no doubt yukkuri would be excited about a large cake！\nJust like a prescription medicine, this is a system that collects the price of \nvisiting and using it at home.
 Ramune for yukkuri home delivery contract.\nWhen yukkuri eat ramune for some reason, sleep immediately.\nIt seems that many people use it as a sleeping pill when moving to a \nhospital.
 Wasanbon for yukkuri home delivery service contract.\nBased on Wasanbon, mixed with nutrients that can have a positive impact \non intelligence. It improves yukkuri’s study results.
 Rice flour for yukkuri home delivery service contract.\nBased on high-grade rice flour, mixed with nutrients that has a\npositive impact on yukkuri’s appearance. It makes the yukkuri more attractive.

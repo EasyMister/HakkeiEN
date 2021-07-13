@@ -1,4 +1,4 @@
-//来場時
+//来場晁E
 This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
 This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
 This is the examination hall. We perform examinations for bronze,\nsilver and gold badges.
@@ -31,13 +31,13 @@ This is the examination hall. We perform examinations for bronze,\nsilver and go
 The examination fee is
  yen.\nThere are no refunds in case of failure, so be careful.
 
-Take the bronze badge exam?
-Take the silver badge exam?
-Take the gold badge exam?
+Take the bronze badge exam�H
+Take the silver badge exam�H
+Take the gold badge exam�H
 
 
 
-//試験
+//試騁E
 Pick the yukkuri to be tested.
 The behaviour test was a failure.
 The intelligence test was a failure.
