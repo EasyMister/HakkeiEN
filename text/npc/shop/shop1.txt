@@ -1,10 +1,10 @@
 //来店時
-Welcome!\nWe're in the middle of preopening!!
+Welcome！\nWe're in the middle of preopening！！
 Between the bronze badge there are some bad apples...
 The bronze badges know how to use the toilet.
 Since it's easy for koyukkuri to hurt themselves when playing,\nplease spread some proper flooring in the yukkurarium.
 If you leave the pool as it is, it'll become dirty and accidents\nmight occur. Please put it away after playing.
-If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mind!
+If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mind！
 
 
 
@@ -18,23 +18,23 @@ If the yukkurarium is too crowded, you can't get other yukkuri.\nKeep that in mi
 
 
 //退店時
-Are you done shopping?
+Are you done shopping？
 
 
 
 
 //タッチ
-Kyaah!?
-Sexual harassment is bad!
+Kyaah！？
+Sexual harassment is bad！
 
 
 //ゆっくり購入
-You want to buy a yukkuri?
+You want to buy a yukkuri？
 The purchased yukkuri is in your freezer.
 Your freezer is full,\nplease make some space.
-You changed your mind?
-Thank you for your patronage!
-You want to sell a yukkuri?
+You changed your mind？
+Thank you for your patronage！
+You want to sell a yukkuri？
 
 
 
@@ -51,8 +51,8 @@ This yukkuri is a descendant of a gold badge.\n
 
 
 //アイテム購入
-Do you want to buy equipment for\nyukkuri breeding?
-Uwaa! You bought all the breeding equipment!\nThank you very much!!
+Do you want to buy equipment for\nyukkuri breeding？
+Uwaa！ You bought all the breeding equipment！\nThank you very much！！
 
 
 

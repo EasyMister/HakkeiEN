@@ -18,7 +18,7 @@ All yukkuri supplies in our shop\nhave a 20% discount on the manufacturer's list
 
 
 //退店時
-are you ready to go home?
+are you ready to go home？
 
 
 
@@ -51,8 +51,8 @@ are you ready to go home?
 
 
 //アイテム購入
-raising supplies for yukkuri\nwant to buy some?
-...!\nYou have purchased all raising supplies we have. 
+raising supplies for yukkuri\nwant to buy some？
+……！\nYou have purchased all raising supplies we have. 
 
 
 
